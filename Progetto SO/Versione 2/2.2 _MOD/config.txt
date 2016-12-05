@@ -1,0 +1,4 @@
+90
+9;8;9
+//Riga 1: Durata partita in secondi
+//Riga 2: Formato max accettato ddd.ff;ddd.ff;ddd.ff  %Goal;%Infortunio;%Dribling
